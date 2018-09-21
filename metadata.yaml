@@ -1,5 +1,5 @@
 _repo: The-Little-Match-Man_54678
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Longstreet, Hattie
@@ -9,6 +9,9 @@ contributor:
     agent_name: Woodruff, S. F.
     gutenberg_agent_id: '47988'
     url: http://www.gutenberg.org/2009/agents/47988
+covers:
+- cover_type: archival
+  image_path: 54678-h/images/cover.jpg
 creator:
   author:
     agent_name: Barzini, Luigi
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7372
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Barzini,_Sr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54678#The-Little-Match-Man
 gutenberg_issued: '2017-05-07'
 gutenberg_type: Text
 identifiers:
